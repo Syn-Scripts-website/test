@@ -11,4 +11,4 @@ function tp(...)
    end)
    if not tween then return err end
 end
-tp();
+tp(-146.44395446777, 89.632438659668, -1244.1887207031);
